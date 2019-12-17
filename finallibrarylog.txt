@@ -1,0 +1,580 @@
+2#A Crown of swords, Jordan#Ishan B#24
+2#Winter's heart, Jordan#Subhash R#6
+2#Learning Python, Lutz#Clara W#2
+2#Loop Quantum Gravity, Gambini#False
+3#Operating Systems Concepts#Karl V#1
+3#Loop Quantum Gravity, Gambini#Emanuelle A#20
+4#Winter's heart, Jordan#Subhash R#RET
+4#Operating Systems Concepts#Karl V#RET
+4#Learning Python, Lutz#Clara W#RET
+5#A Crown of swords, Jordan#Ishan B#RET
+5#Lord of chaos, Jordan#Jerome G#7
+9#The dragon reborn, Jordan#Lauren M#8
+10#Lord of chaos, Jordan#Jerome G#RET
+10#Learning Python, Lutz#Aysel C#2
+11#Crossroads of twilight, Jordan#Mansi S#15
+11#Learning Python, Lutz#Aysel C#RET
+12#The dragon reborn, Jordan#Lauren M#RET
+13#Crossroads of twilight, Jordan#Mansi S#RET
+13#A Memory of light, Jordan#Brittany M#6
+13#Eye of the world, Jordan#Mukul S#1
+14#Eye of the world, Jordan#Mukul S#RET
+19#A Memory of light, Jordan#Brittany M#RET
+19#Loop Quantum Gravity, Gambini#Emanuelle A#RET
+20#The gathering storm, Jordan#Maria A#2
+21#The shadow rising, Jordan#Rahul Y#4
+22#The gathering storm, Jordan#Maria A#RET
+24#The shadow rising, Jordan#Rahul Y#RET
+34#Loop Quantum Gravity, Gambini#Emanuelle A#20
+35#Algorithm Design, Skeina#Maria A#6
+36#Knife of dreams, Jordan#Karl V#22
+36#Lord of chaos, Jordan#Richard C#5
+37#The dragon reborn, Jordan#Ishan B#13
+37#Introduction to algorithms, Cormen#True
+38#Lord of chaos, Jordan#Richard C#RET
+39#Algorithm Design, Skeina#Maria A#RET
+39#Learning Python, Lutz#Clara W#6
+39#Algorithm Design, Skeina#Raffi K#4
+39#Learning Python, Lutz#Mukul S#4
+40#Algorithm Design, Skeina#Raffi K#RET
+41#Introduction to algorithms, Cormen#Piotr B#7
+43#Operating Systems Concepts#Aysel C#1
+43#Learning Python, Lutz#Mukul S#RET
+44#Operating Systems Concepts#Aysel C#RET
+45#Learning Python, Lutz#Clara W#RET
+45#Winter's heart, Jordan#Rahul Y#14
+46#The gathering storm, Jordan#Mansi S#11
+46#The dragon reborn, Jordan#Ishan B#RET
+47#Operating Systems Concepts#Sahil Y#1
+48#Operating Systems Concepts#Lauren M#5
+48#Operating Systems Concepts#Sahil Y#RET
+49#Knife of dreams, Jordan#Karl V#RET
+49#Loop Quantum Gravity, Gambini#Emanuelle A#RET
+51#Introduction to algorithms, Cormen#Piotr B#RET
+PAY#52#Piotr B#45
+53#Operating Systems Concepts#Lauren M#RET
+53#Winter's heart, Jordan#Rahul Y#RET
+56#The gathering storm, Jordan#Mansi S#RET
+61#The fires of heaven, Jordan#Subhash R#28
+65#A Crown of swords, Jordan#Mansi S#4
+65#A Memory of light, Jordan#Clara W#1
+66#The fires of heaven, Jordan#Subhash R#RET
+66#A Memory of light, Jordan#Clara W#RET
+66#Loop Quantum Gravity, Gambini#Emanuelle A#20
+69#A Crown of swords, Jordan#Mansi S#RET
+70#Eye of the world, Jordan#Farid T#9
+71#Introduction to algorithms, Cormen#Piotr B#7
+73#Lord of chaos, Jordan#Aysel C#12
+74#Eye of the world, Jordan#Farid T#RET
+75#Knife of dreams, Jordan#Jerome G#2
+75#Operating Systems Concepts#Maria A#7
+77#Lord of chaos, Jordan#Aysel C#RET
+77#Knife of dreams, Jordan#Jerome G#RET
+79#Operating Systems Concepts#Maria A#RET
+80#Algorithm Design, Skeina#Raffi K#7
+80#Loop Quantum Gravity, Gambini#Emanuelle A#RET
+80#Towers of midnight, Jordan#Richard C#8
+81#Learning Python, Lutz#Mukul S#2
+81#Towers of midnight, Jordan#Richard C#RET
+81#Introduction to algorithms, Cormen#Piotr B#RET
+82#The path of daggers, Jordan#Sahil Y#1
+82#Learning Python, Lutz#Mukul S#RET
+PAY#82#Piotr B#45
+83#Learning Python, Lutz#Lauren M#2
+83#The path of daggers, Jordan#Sahil Y#RET
+85#Algorithm Design, Skeina#Raffi K#RET
+85#Learning Python, Lutz#Lauren M#RET
+91#A Crown of swords, Jordan#Clara W#9
+92#Lord of chaos, Jordan#Karl V#12
+93#Lord of chaos, Jordan#Karl V#RET
+93#A Memory of light, Jordan#Brittany M#5
+93#Winter's heart, Jordan#Sahil Y#18
+95#A Memory of light, Jordan#Brittany M#RET
+97#Knife of dreams, Jordan#Farid T#21
+99#Towers of midnight, Jordan#Aysel C#2
+100#A Crown of swords, Jordan#Clara W#RET
+100#Towers of midnight, Jordan#Aysel C#RET
+104#Winter's heart, Jordan#Sahil Y#RET
+105#Algorithm Design, Skeina#Mansi S#3
+106#Algorithm Design, Skeina#Mansi S#RET
+106#The great hunt, Jordan#Lauren M#5
+108#Learning Python, Lutz#Subhash R#6
+108#The path of daggers, Jordan#Ishan B#11
+109#Operating Systems Concepts#Mukul S#6
+110#Learning Python, Lutz#Subhash R#RET
+110#The path of daggers, Jordan#Ishan B#RET
+111#The great hunt, Jordan#Lauren M#RET
+111#The gathering storm, Jordan#Maria A#6
+112#The gathering storm, Jordan#Maria A#RET
+114#Operating Systems Concepts#Mukul S#RET
+116#Knife of dreams, Jordan#Farid T#RET
+121#The gathering storm, Jordan#Richard C#27
+123#Learning Python, Lutz#Karl V#1
+124#Learning Python, Lutz#Karl V#RET
+124#Towers of midnight, Jordan#Ishan B#6
+125#Loop Quantum Gravity, Gambini#Emanuelle A#20
+126#Eye of the world, Jordan#Jerome G#14
+127#Learning Python, Lutz#Mansi S#3
+128#Towers of midnight, Jordan#Ishan B#RET
+128#Introduction to algorithms, Cormen#Piotr B#7
+130#Learning Python, Lutz#Mansi S#RET
+131#Operating Systems Concepts#Mukul S#1
+131#Eye of the world, Jordan#Jerome G#RET
+132#Operating Systems Concepts#Mukul S#RET
+133#The shadow rising, Jordan#Clara W#1
+133#A Crown of swords, Jordan#Sahil Y#3
+134#The shadow rising, Jordan#Clara W#RET
+136#The great hunt, Jordan#Raffi K#9
+136#A Crown of swords, Jordan#Sahil Y#RET
+137#Winter's heart, Jordan#Subhash R#7
+138#The gathering storm, Jordan#Richard C#RET
+138#Introduction to algorithms, Cormen#Piotr B#RET
+139#Winter's heart, Jordan#Subhash R#RET
+PAY#139#Piotr B#45
+140#Loop Quantum Gravity, Gambini#Emanuelle A#RET
+141#Algorithm Design, Skeina#Lauren M#2
+142#Algorithm Design, Skeina#Lauren M#RET
+142#Learning Python, Lutz#Maria A#2
+143#The great hunt, Jordan#Raffi K#RET
+144#Learning Python, Lutz#Maria A#RET
+151#Towers of midnight, Jordan#Mukul S#4
+152#Towers of midnight, Jordan#Mukul S#RET
+152#The great hunt, Jordan#Mansi S#26
+153#The dragon reborn, Jordan#Richard C#17
+153#Loop Quantum Gravity, Gambini#Emanuelle A#20
+156#Winter's heart, Jordan#Brittany M#19
+157#Algorithm Design, Skeina#Farid T#5
+158#Algorithm Design, Skeina#Farid T#RET
+159#Winter's heart, Jordan#Brittany M#RET
+160#Knife of dreams, Jordan#Rahul Y#7
+160#Crossroads of twilight, Jordan#Karl V#4
+160#Introduction to algorithms, Cormen#Piotr B#7
+164#The dragon reborn, Jordan#Richard C#RET
+164#Crossroads of twilight, Jordan#Karl V#RET
+164#Knife of dreams, Jordan#Rahul Y#RET
+165#The path of daggers, Jordan#Clara W#3
+166#Operating Systems Concepts#Ishan B#3
+167#The path of daggers, Jordan#Clara W#RET
+167#A Crown of swords, Jordan#Subhash R#10
+167#Operating Systems Concepts#Ishan B#RET
+170#Loop Quantum Gravity, Gambini#Emanuelle A#RET
+170#Introduction to algorithms, Cormen#Piotr B#RET
+PAY#171#Piotr B#45
+173#Algorithm Design, Skeina#Aysel C#3
+173#A Crown of swords, Jordan#Subhash R#RET
+174#Learning Python, Lutz#Raffi K#1
+175#Learning Python, Lutz#Raffi K#RET
+175#Algorithm Design, Skeina#Aysel C#RET
+175#The great hunt, Jordan#Mansi S#RET
+184#Towers of midnight, Jordan#Raffi K#10
+185#Operating Systems Concepts#Maria A#2
+185#Loop Quantum Gravity, Gambini#Emanuelle A#20
+186#Operating Systems Concepts#Maria A#RET
+186#The fires of heaven, Jordan#Karl V#7
+188#Towers of midnight, Jordan#Raffi K#RET
+188#Introduction to algorithms, Cormen#Piotr B#7
+190#Learning Python, Lutz#Mansi S#2
+191#Winter's heart, Jordan#Clara W#16
+192#Learning Python, Lutz#Mansi S#RET
+192#The fires of heaven, Jordan#Karl V#RET
+193#Algorithm Design, Skeina#Sahil Y#6
+197#The great hunt, Jordan#Brittany M#3
+197#Algorithm Design, Skeina#Sahil Y#RET
+197#Loop Quantum Gravity, Gambini#Emanuelle A#RET
+198#The great hunt, Jordan#Brittany M#RET
+198#Introduction to algorithms, Cormen#Piotr B#RET
+199#Operating Systems Concepts#Aysel C#3
+PAY#199#Piotr B#45
+200#A Crown of swords, Jordan#Lauren M#9
+201#Operating Systems Concepts#Aysel C#RET
+201#The gathering storm, Jordan#Farid T#4
+201#The dragon reborn, Jordan#Richard C#2
+202#The dragon reborn, Jordan#Richard C#RET
+203#Winter's heart, Jordan#Clara W#RET
+203#Crossroads of twilight, Jordan#Mukul S#2
+203#The gathering storm, Jordan#Farid T#RET
+204#Crossroads of twilight, Jordan#Mukul S#RET
+204#A Crown of swords, Jordan#Lauren M#RET
+212#The shadow rising, Jordan#Mansi S#27
+212#Loop Quantum Gravity, Gambini#Emanuelle A#20
+214#The gathering storm, Jordan#Richard C#21
+217#Introduction to algorithms, Cormen#Piotr B#7
+219#Lord of chaos, Jordan#Mukul S#19
+220#Knife of dreams, Jordan#Farid T#3
+221#Knife of dreams, Jordan#Farid T#RET
+224#Algorithm Design, Skeina#Karl V#1
+224#Learning Python, Lutz#Clara W#1
+224#Crossroads of twilight, Jordan#Jerome G#10
+225#Learning Python, Lutz#Clara W#RET
+225#Algorithm Design, Skeina#Karl V#RET
+225#Crossroads of twilight, Jordan#Jerome G#RET
+225#Algorithm Design, Skeina#Ishan B#4
+226#Lord of chaos, Jordan#Mukul S#RET
+226#Algorithm Design, Skeina#Ishan B#RET
+226#The shadow rising, Jordan#Mansi S#RET
+227#Operating Systems Concepts#Subhash R#7
+227#Introduction to algorithms, Cormen#Piotr B#RET
+PAY#228#Piotr B#45
+229#Operating Systems Concepts#Subhash R#RET
+230#Loop Quantum Gravity, Gambini#Emanuelle A#RET
+230#Learning Python, Lutz#Aysel C#2
+231#The gathering storm, Jordan#Richard C#RET
+231#Learning Python, Lutz#Maria A#7
+231#Learning Python, Lutz#Aysel C#RET
+232#Learning Python, Lutz#Maria A#RET
+234#Algorithm Design, Skeina#Rahul Y#3
+236#Algorithm Design, Skeina#Rahul Y#RET
+241#Lord of chaos, Jordan#Mukul S#17
+242#Knife of dreams, Jordan#Ishan B#13
+243#Knife of dreams, Jordan#Ishan B#RET
+243#Loop Quantum Gravity, Gambini#Emanuelle A#20
+245#A Memory of light, Jordan#Sahil Y#11
+246#Introduction to algorithms, Cormen#Piotr B#7
+247#Learning Python, Lutz#Farid T#1
+248#Learning Python, Lutz#Farid T#RET
+248#Winter's heart, Jordan#Lauren M#8
+249#The fires of heaven, Jordan#Mansi S#3
+249#Operating Systems Concepts#Maria A#1
+250#The fires of heaven, Jordan#Mansi S#RET
+250#Operating Systems Concepts#Maria A#RET
+251#Lord of chaos, Jordan#Mukul S#RET
+253#The gathering storm, Jordan#Subhash R#13
+253#Winter's heart, Jordan#Lauren M#RET
+253#Crossroads of twilight, Jordan#Jerome G#4
+255#A Memory of light, Jordan#Sahil Y#RET
+256#The dragon reborn, Jordan#Aysel C#4
+256#Crossroads of twilight, Jordan#Jerome G#RET
+256#Introduction to algorithms, Cormen#Piotr B#RET
+PAY#257#Piotr B#45
+259#The dragon reborn, Jordan#Aysel C#RET
+259#Loop Quantum Gravity, Gambini#Emanuelle A#RET
+259#The gathering storm, Jordan#Subhash R#RET
+259#Learning Python, Lutz#Karl V#4
+262#Learning Python, Lutz#Richard C#2
+263#Learning Python, Lutz#Karl V#RET
+264#Learning Python, Lutz#Richard C#RET
+272#The fires of heaven, Jordan#Jerome G#6
+275#The fires of heaven, Jordan#Jerome G#RET
+275#Crossroads of twilight, Jordan#Farid T#17
+275#Lord of chaos, Jordan#Rahul Y#4
+275#Loop Quantum Gravity, Gambini#Emanuelle A#20
+277#Algorithm Design, Skeina#Richard C#6
+278#Crossroads of twilight, Jordan#Farid T#RET
+279#Lord of chaos, Jordan#Rahul Y#RET
+280#The dragon reborn, Jordan#Subhash R#5
+280#Introduction to algorithms, Cormen#Piotr B#7
+281#The dragon reborn, Jordan#Subhash R#RET
+282#Algorithm Design, Skeina#Richard C#RET
+282#The shadow rising, Jordan#Mansi S#3
+282#Operating Systems Concepts#Clara W#3
+283#A Memory of light, Jordan#Karl V#11
+283#Operating Systems Concepts#Clara W#RET
+284#The shadow rising, Jordan#Mansi S#RET
+289#A Memory of light, Jordan#Karl V#RET
+290#Operating Systems Concepts#Brittany M#7
+290#Loop Quantum Gravity, Gambini#Emanuelle A#RET
+290#Introduction to algorithms, Cormen#Piotr B#RET
+291#Learning Python, Lutz#Lauren M#1
+PAY#291#Piotr B#45
+292#Operating Systems Concepts#Raffi K#5
+292#Algorithm Design, Skeina#Maria A#3
+292#Learning Python, Lutz#Lauren M#RET
+294#Algorithm Design, Skeina#Maria A#RET
+295#Operating Systems Concepts#Raffi K#RET
+296#Operating Systems Concepts#Brittany M#RET
+304#Algorithm Design, Skeina#Aysel C#2
+304#Algorithm Design, Skeina#Ishan B#3
+305#Algorithm Design, Skeina#Aysel C#RET
+305#Algorithm Design, Skeina#Ishan B#RET
+306#Loop Quantum Gravity, Gambini#Emanuelle A#20
+308#Learning Python, Lutz#Rahul Y#3
+309#Learning Python, Lutz#Rahul Y#RET
+311#Introduction to algorithms, Cormen#Piotr B#7
+312#Operating Systems Concepts#Clara W#6
+312#Eye of the world, Jordan#Farid T#8
+313#Operating Systems Concepts#Clara W#RET
+313#Learning Python, Lutz#Lauren M#5
+313#Eye of the world, Jordan#Farid T#RET
+315#The path of daggers, Jordan#Richard C#14
+315#Winter's heart, Jordan#Subhash R#11
+315#The fires of heaven, Jordan#Sahil Y#12
+316#The shadow rising, Jordan#Mukul S#1
+316#Learning Python, Lutz#Lauren M#RET
+316#The fires of heaven, Jordan#Sahil Y#RET
+317#Crossroads of twilight, Jordan#Jerome G#12
+317#The shadow rising, Jordan#Mukul S#RET
+317#Loop Quantum Gravity, Gambini#Emanuelle A#RET
+321#Winter's heart, Jordan#Subhash R#RET
+321#Crossroads of twilight, Jordan#Jerome G#RET
+321#Introduction to algorithms, Cormen#Piotr B#RET
+PAY#322#Piotr B#45
+323#The path of daggers, Jordan#Richard C#RET
+323#A Crown of swords, Jordan#Brittany M#4
+324#A Crown of swords, Jordan#Brittany M#RET
+335#The great hunt, Jordan#Lauren M#5
+336#Algorithm Design, Skeina#Farid T#3
+337#Algorithm Design, Skeina#Farid T#RET
+339#The great hunt, Jordan#Lauren M#RET
+341#Operating Systems Concepts#Sahil Y#7
+341#Algorithm Design, Skeina#Clara W#2
+342#A Memory of light, Jordan#Ishan B#9
+342#The fires of heaven, Jordan#Jerome G#3
+343#Algorithm Design, Skeina#Clara W#RET
+345#Eye of the world, Jordan#Mukul S#5
+345#The fires of heaven, Jordan#Jerome G#RET
+345#Operating Systems Concepts#Sahil Y#RET
+346#Algorithm Design, Skeina#Rahul Y#5
+347#A Memory of light, Jordan#Ishan B#RET
+349#Algorithm Design, Skeina#Rahul Y#RET
+350#Learning Python, Lutz#Mansi S#6
+350#Eye of the world, Jordan#Mukul S#RET
+350#The gathering storm, Jordan#Maria A#2
+351#The gathering storm, Jordan#Maria A#RET
+351#Learning Python, Lutz#Aysel C#3
+352#Learning Python, Lutz#Aysel C#RET
+352#Learning Python, Lutz#Mansi S#RET
+352#The path of daggers, Jordan#Richard C#3
+355#The path of daggers, Jordan#Richard C#RET
+361#The path of daggers, Jordan#Karl V#9
+362#Knife of dreams, Jordan#Maria A#2
+362#Learning Python, Lutz#Mansi S#7
+362#Loop Quantum Gravity, Gambini#Emanuelle A#20
+363#Knife of dreams, Jordan#Maria A#RET
+364#The path of daggers, Jordan#Karl V#RET
+366#Learning Python, Lutz#Mansi S#RET
+367#Operating Systems Concepts#Aysel C#7
+367#Towers of midnight, Jordan#Rahul Y#15
+368#Operating Systems Concepts#Aysel C#RET
+368#The great hunt, Jordan#Ishan B#2
+369#Eye of the world, Jordan#Raffi K#10
+369#Introduction to algorithms, Cormen#Piotr B#7
+370#The great hunt, Jordan#Ishan B#RET
+371#The shadow rising, Jordan#Richard C#14
+376#Towers of midnight, Jordan#Rahul Y#RET
+376#Winter's heart, Jordan#Clara W#10
+377#Algorithm Design, Skeina#Mukul S#2
+378#Algorithm Design, Skeina#Mukul S#RET
+378#Eye of the world, Jordan#Raffi K#RET
+379#Introduction to algorithms, Cormen#Piotr B#RET
+380#Loop Quantum Gravity, Gambini#Emanuelle A#RET
+PAY#380#Piotr B#45
+381#Learning Python, Lutz#Lauren M#3
+381#The shadow rising, Jordan#Richard C#RET
+384#Crossroads of twilight, Jordan#Subhash R#4
+384#Learning Python, Lutz#Lauren M#RET
+385#Winter's heart, Jordan#Clara W#RET
+386#Crossroads of twilight, Jordan#Subhash R#RET
+391#Eye of the world, Jordan#Mukul S#1
+392#Winter's heart, Jordan#Rahul Y#8
+392#Eye of the world, Jordan#Mukul S#RET
+392#Loop Quantum Gravity, Gambini#Emanuelle A#20
+393#Knife of dreams, Jordan#Subhash R#14
+397#Learning Python, Lutz#Richard C#3
+398#Winter's heart, Jordan#Rahul Y#RET
+398#The dragon reborn, Jordan#Aysel C#3
+398#Learning Python, Lutz#Richard C#RET
+399#The dragon reborn, Jordan#Aysel C#RET
+400#Knife of dreams, Jordan#Subhash R#RET
+400#Introduction to algorithms, Cormen#Piotr B#7
+401#Algorithm Design, Skeina#Mansi S#6
+401#Towers of midnight, Jordan#Brittany M#11
+402#The fires of heaven, Jordan#Clara W#15
+403#Lord of chaos, Jordan#Raffi K#2
+403#Algorithm Design, Skeina#Mansi S#RET
+405#Lord of chaos, Jordan#Raffi K#RET
+405#Operating Systems Concepts#Sahil Y#3
+408#Operating Systems Concepts#Sahil Y#RET
+409#Loop Quantum Gravity, Gambini#Emanuelle A#RET
+410#Towers of midnight, Jordan#Brittany M#RET
+410#Introduction to algorithms, Cormen#Piotr B#RET
+411#Learning Python, Lutz#Jerome G#7
+PAY#411#Piotr B#45
+415#Operating Systems Concepts#Lauren M#4
+416#The fires of heaven, Jordan#Clara W#RET
+416#Operating Systems Concepts#Lauren M#RET
+418#Learning Python, Lutz#Jerome G#RET
+421#Towers of midnight, Jordan#Lauren M#14
+422#Algorithm Design, Skeina#Raffi K#5
+425#Learning Python, Lutz#Karl V#7
+426#Loop Quantum Gravity, Gambini#Emanuelle A#20
+427#Learning Python, Lutz#Karl V#RET
+427#Algorithm Design, Skeina#Raffi K#RET
+429#The dragon reborn, Jordan#Richard C#5
+430#A Crown of swords, Jordan#Brittany M#18
+430#Introduction to algorithms, Cormen#Piotr B#7
+431#Knife of dreams, Jordan#Jerome G#16
+431#Winter's heart, Jordan#Rahul Y#6
+431#The dragon reborn, Jordan#Richard C#RET
+431#Towers of midnight, Jordan#Lauren M#RET
+431#Algorithm Design, Skeina#Maria A#1
+432#Algorithm Design, Skeina#Maria A#RET
+435#Learning Python, Lutz#Aysel C#4
+437#Winter's heart, Jordan#Rahul Y#RET
+438#Learning Python, Lutz#Aysel C#RET
+438#Operating Systems Concepts#Mansi S#7
+439#Lord of chaos, Jordan#Clara W#3
+439#Loop Quantum Gravity, Gambini#Emanuelle A#RET
+439#Learning Python, Lutz#Subhash R#1
+440#Lord of chaos, Jordan#Clara W#RET
+440#Learning Python, Lutz#Subhash R#RET
+440#Introduction to algorithms, Cormen#Piotr B#RET
+PAY#441#Piotr B#45
+443#Knife of dreams, Jordan#Jerome G#RET
+445#Operating Systems Concepts#Mansi S#RET
+447#A Crown of swords, Jordan#Brittany M#RET
+451#The shadow rising, Jordan#Aysel C#5
+453#The great hunt, Jordan#Jerome G#2
+455#Learning Python, Lutz#Clara W#7
+455#The great hunt, Jordan#Jerome G#RET
+456#Learning Python, Lutz#Clara W#RET
+456#The shadow rising, Jordan#Aysel C#RET
+456#Loop Quantum Gravity, Gambini#Emanuelle A#20
+460#Towers of midnight, Jordan#Brittany M#11
+460#Winter's heart, Jordan#Lauren M#18
+461#Introduction to algorithms, Cormen#Piotr B#7
+462#Crossroads of twilight, Jordan#Raffi K#15
+464#Algorithm Design, Skeina#Ishan B#7
+464#Towers of midnight, Jordan#Brittany M#RET
+465#The fires of heaven, Jordan#Sahil Y#12
+467#The fires of heaven, Jordan#Sahil Y#RET
+467#Winter's heart, Jordan#Lauren M#RET
+467#Algorithm Design, Skeina#Ishan B#RET
+468#Crossroads of twilight, Jordan#Raffi K#RET
+468#Loop Quantum Gravity, Gambini#Emanuelle A#RET
+469#Eye of the world, Jordan#Mukul S#3
+470#Eye of the world, Jordan#Mukul S#RET
+471#Operating Systems Concepts#Subhash R#7
+471#Operating Systems Concepts#Richard C#7
+471#Introduction to algorithms, Cormen#Piotr B#RET
+PAY#472#Piotr B#45
+475#Learning Python, Lutz#Farid T#3
+477#Learning Python, Lutz#Farid T#RET
+478#Operating Systems Concepts#Richard C#RET
+478#Operating Systems Concepts#Subhash R#RET
+482#Learning Python, Lutz#Mansi S#2
+482#Algorithm Design, Skeina#Sahil Y#5
+483#Operating Systems Concepts#Ishan B#7
+483#Algorithm Design, Skeina#Lauren M#6
+483#The shadow rising, Jordan#Aysel C#6
+484#Algorithm Design, Skeina#Lauren M#RET
+484#Algorithm Design, Skeina#Brittany M#5
+484#The shadow rising, Jordan#Aysel C#RET
+484#Towers of midnight, Jordan#Mukul S#16
+484#Learning Python, Lutz#Mansi S#RET
+484#Loop Quantum Gravity, Gambini#Emanuelle A#20
+486#Algorithm Design, Skeina#Brittany M#RET
+486#Operating Systems Concepts#Ishan B#RET
+486#Towers of midnight, Jordan#Mukul S#RET
+486#The dragon reborn, Jordan#Raffi K#21
+487#Algorithm Design, Skeina#Sahil Y#RET
+488#The fires of heaven, Jordan#Farid T#20
+489#Introduction to algorithms, Cormen#Piotr B#7
+491#Learning Python, Lutz#Richard C#1
+492#Learning Python, Lutz#Richard C#RET
+493#The gathering storm, Jordan#Jerome G#16
+496#Learning Python, Lutz#Maria A#7
+497#Loop Quantum Gravity, Gambini#Emanuelle A#RET
+499#Introduction to algorithms, Cormen#Piotr B#RET
+PAY#500#Piotr B#45
+501#Learning Python, Lutz#Maria A#RET
+506#The fires of heaven, Jordan#Farid T#RET
+507#The dragon reborn, Jordan#Raffi K#RET
+507#The gathering storm, Jordan#Jerome G#RET
+511#The dragon reborn, Jordan#Jerome G#27
+512#Crossroads of twilight, Jordan#Brittany M#3
+514#Crossroads of twilight, Jordan#Brittany M#RET
+516#A Memory of light, Jordan#Raffi K#13
+516#Loop Quantum Gravity, Gambini#Emanuelle A#20
+517#Introduction to algorithms, Cormen#Piotr B#7
+518#The fires of heaven, Jordan#Aysel C#7
+520#Towers of midnight, Jordan#Sahil Y#1
+521#A Memory of light, Jordan#Raffi K#RET
+521#The fires of heaven, Jordan#Aysel C#RET
+521#Towers of midnight, Jordan#Sahil Y#RET
+521#Winter's heart, Jordan#Mansi S#3
+522#Winter's heart, Jordan#Mansi S#RET
+525#The gathering storm, Jordan#Karl V#14
+526#Algorithm Design, Skeina#Farid T#7
+527#Learning Python, Lutz#Mukul S#2
+527#Algorithm Design, Skeina#Farid T#RET
+527#Loop Quantum Gravity, Gambini#Emanuelle A#RET
+527#Introduction to algorithms, Cormen#Piotr B#RET
+PAY#528#Piotr B#45
+529#Learning Python, Lutz#Mukul S#RET
+530#Learning Python, Lutz#Richard C#4
+531#Learning Python, Lutz#Richard C#RET
+531#Operating Systems Concepts#Subhash R#7
+533#Operating Systems Concepts#Maria A#3
+533#Operating Systems Concepts#Subhash R#RET
+534#The gathering storm, Jordan#Karl V#RET
+536#Operating Systems Concepts#Maria A#RET
+538#The dragon reborn, Jordan#Jerome G#RET
+541#Eye of the world, Jordan#Jerome G#22
+541#Algorithm Design, Skeina#Ishan B#5
+542#Knife of dreams, Jordan#Aysel C#10
+543#Algorithm Design, Skeina#Ishan B#RET
+544#Loop Quantum Gravity, Gambini#Emanuelle A#20
+548#Crossroads of twilight, Jordan#Karl V#17
+549#Knife of dreams, Jordan#Aysel C#RET
+549#Crossroads of twilight, Jordan#Karl V#RET
+550#Introduction to algorithms, Cormen#Piotr B#7
+552#Operating Systems Concepts#Maria A#7
+552#Learning Python, Lutz#Lauren M#1
+553#Operating Systems Concepts#Maria A#RET
+553#Learning Python, Lutz#Lauren M#RET
+554#The shadow rising, Jordan#Raffi K#5
+557#Loop Quantum Gravity, Gambini#Emanuelle A#RET
+558#Algorithm Design, Skeina#Rahul Y#4
+558#The shadow rising, Jordan#Raffi K#RET
+558#The fires of heaven, Jordan#Mansi S#2
+559#Algorithm Design, Skeina#Rahul Y#RET
+559#The fires of heaven, Jordan#Mansi S#RET
+559#Learning Python, Lutz#Richard C#7
+560#Eye of the world, Jordan#Jerome G#RET
+560#Learning Python, Lutz#Richard C#RET
+560#Introduction to algorithms, Cormen#Piotr B#RET
+561#Towers of midnight, Jordan#Subhash R#7
+PAY#561#Piotr B#45
+567#Learning Python, Lutz#Mukul S#1
+567#1984, Wells#False
+567#Catch 22, Heller#False
+568#Learning Python, Lutz#Mukul S#RET
+568#Towers of midnight, Jordan#Subhash R#RET
+573#Towers of midnight, Jordan#Subhash R#10
+573#1984, Wells#Sunny P#5
+574#The path of daggers, Jordan#Mansi S#7
+575#Towers of midnight, Jordan#Subhash R#RET
+575#Loop Quantum Gravity, Gambini#Emanuelle A#20
+576#Operating Systems Concepts#Karl V#1
+577#Operating Systems Concepts#Karl V#RET
+578#Introduction to algorithms, Cormen#Piotr B#7
+579#Learning Python, Lutz#Farid T#4
+579#Operating Systems Concepts#Lauren M#4
+580#The path of daggers, Jordan#Mansi S#RET
+580#1984, Wells#Sunny P#RET
+580#Winter's heart, Jordan#Sahil Y#15
+581#A Crown of swords, Jordan#Ishan B#7
+581#Algorithm Design, Skeina#Clara W#6
+583#Learning Python, Lutz#Farid T#RET
+583#Operating Systems Concepts#Lauren M#RET
+584#Algorithm Design, Skeina#Clara W#RET
+587#Winter's heart, Jordan#Sahil Y#RET
+587#A Crown of swords, Jordan#Ishan B#RET
+588#Crossroads of twilight, Jordan#Raffi K#9
+588#Introduction to algorithms, Cormen#Piotr B#RET
+589#Loop Quantum Gravity, Gambini#Emanuelle A#RET
+PAY#589#Piotr B#45
+PAY#589#Sunny P#7
+590#Catch 22, Heller#Abhay K#10
+590#Introduction to algorithms, Cormen#Abhay K#5
+590#Loop Quantum Gravity, Gambini#Emanuelle A#10
+592#The dragon reborn, Jordan#Aysel C#7
+592#Crossroads of twilight, Jordan#Raffi K#RET
+593#Learning Python, Lutz#Mukul S#1
+594#Learning Python, Lutz#Mukul S#RET
+595#A Memory of light, Jordan#Maria A#2
+597#A Memory of light, Jordan#Maria A#RET
+599#The dragon reborn, Jordan#Aysel C#RET
+601#Catch 22, Heller#Abhay K#RET
+601#Introduction to algorithms, Cormen#Abhay K#RET
+603
